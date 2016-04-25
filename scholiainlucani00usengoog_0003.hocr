@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./scholiainlucani00usengoog_0003.png"; bbox 0 0 975 1413; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 225 729 720 1062">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 225 729 720 1062">
+     <span class='ocr_line' id='line_1_1' title="bbox 225 729 720 823; baseline 0 -28"><span class='ocrx_word' id='word_1_1' title='bbox 225 729 720 823; x_wconf 95' lang='lat' dir='ltr'>       </span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 236 823 720 1062; baseline 0 -210"><span class='ocrx_word' id='word_1_2' title='bbox 236 823 720 1062; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 274 737 616 813">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 274 737 616 813">
+     <span class='ocr_line' id='line_1_3' title="bbox 274 737 568 768; baseline -0.027 -12"><span class='ocrx_word' id='word_1_3' title='bbox 274 761 282 768; x_wconf 25' lang='grc' dir='ltr'><strong>ἡ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 392 742 444 753; x_wconf 65' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_5' title='bbox 459 739 522 751; x_wconf 64' lang='lat' dir='ltr'><strong>ull-&#39;T</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 537 737 568 749; x_wconf 71' lang='lat' dir='ltr'>OF</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 296 767 616 797; baseline -0.028 -10"><span class='ocrx_word' id='word_1_7' title='bbox 296 784 299 791; x_wconf 33' lang='lat' dir='ltr'>k</span> <span class='ocrx_word' id='word_1_8' title='bbox 318 767 327 797; x_wconf 47' lang='lat'>¹1*</span> <span class='ocrx_word' id='word_1_9' title='bbox 345 772 457 786; x_wconf 68' lang='grc' dir='ltr'>ετΕΡΒΕΝ</span> <span class='ocrx_word' id='word_1_10' title='bbox 471 767 616 782; x_wconf 64' lang='lat' dir='ltr'>SALISBURY,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 389 799 576 813; baseline -0.027 0"><span class='ocrx_word' id='word_1_11' title='bbox 389 803 408 813; x_wconf 69' lang='lat' dir='ltr'>:W</span> <span class='ocrx_word' id='word_1_12' title='bbox 418 800 521 812; x_wconf 57' lang='lat' dir='ltr'>»veterum-En,</span> <span class='ocrx_word' id='word_1_13' title='bbox 530 799 576 809; x_wconf 53' lang='lat' dir='ltr'>uAss.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 424 830 540 845">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 424 830 540 845">
+     <span class='ocr_line' id='line_1_6' title="bbox 424 830 540 845; baseline -0.026 -1"><span class='ocrx_word' id='word_1_14' title='bbox 424 832 468 845; x_wconf 71' lang='lat' dir='ltr'>&lt;Clu-</span> <span class='ocrx_word' id='word_1_15' title='bbox 475 831 491 842; x_wconf 75' lang='lat' dir='ltr'>n!</span> <span class='ocrx_word' id='word_1_16' title='bbox 497 830 540 842; x_wconf 69' lang='lat' dir='ltr'>mxv:</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
